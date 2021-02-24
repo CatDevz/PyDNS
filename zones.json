@@ -1,0 +1,14 @@
+{
+  "codyq.me.": {
+    "$origin": "codyq.me.",
+    "$ttl": 3600,
+    "soa": { },
+    "ns": [
+      { "host": "ns1.vultr.com." },
+      { "host": "ns2.vultr.com." }
+    ],
+    "a": [
+      { "name": "@", "ttl": 400, "value": "127.0.0.1" }
+    ]
+  }
+}
